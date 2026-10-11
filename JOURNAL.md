@@ -14,15 +14,17 @@
 
 ## Contents
 
-1. [2026-10-06 – I started by going through the Starbie guide to get everything set up. I was able to download some files, but others took patience and required tutorial videos to resolve the issue. The most difficult](#2026-10-06-i-started-by-going-through-the-starbie-guide-to-g)
+1. [2026-10-06 – Date:  October 5, 2026](#2026-10-06-date-october-5-2026)
 2. [2026-10-07 – In this session, I continued working on the Starbie PCB guide by starting the schematic design. I had to lay out all the parts, including the buttons, sensors, mainboard, resistor, and connection pins](#2026-10-07-in-this-session-i-continued-working-on-the-starbi)
 3. [2026-10-10 – In this session, I worked on routing the PCB and designing the boundary in a shape of a star. At the beginning, it was hard for me to rearrange the PCB layout, but I used the guided image to roughly p](#2026-10-10-in-this-session-i-worked-on-routing-the-pcb-and-d)
 
 ## Design
 
-### 2026-10-06 – I started by going through the Starbie guide to get everything set up. I was able to download some files, but others took patience and required tutorial videos to resolve the issue. The most difficult
+### 2026-10-06 – Date:  October 5, 2026
 
 **2h**
+
+Date:  October 5, 2026
 
 I started by going through the Starbie guide to get everything set up. I was able to download some files, but others took patience and required tutorial videos to resolve the issue. The most difficult files to download were the .sym and .pretty files, since they required other platforms like KiCad to run first. It was a tough process trying to familiarize myself with all the software, but it was manageable and made me feel more confident when starting to design my starbie project.
 
