@@ -35,4 +35,4 @@ PCB Design:
 <img width="856" height="662" alt="Starbie_PCB_layout png" src="https://github.com/user-attachments/assets/49f82dbc-0a19-4cb7-97ca-d30963a6e10e" />
 
 PCB Schematic Layout:
-<img width="762" height="750" alt="Starbie_PCB_Schematic_Layout png" src="https://github.com/user-attachments/assets/24697b80-8660-4eaf-9e94-b915e7230fc4" />
+https://github.com/528390/Hack-Club-Half-Life/blob/main/Starbie_PCB_Schematic_Layout.png.png 
