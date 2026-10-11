@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-06 – Date:  October 5, 2026](#2026-10-06-date-october-5-2026)
-2. [2026-10-07 – In this session, I continued working on the Starbie PCB guide by starting the schematic design. I had to lay out all the parts, including the buttons, sensors, mainboard, resistor, and connection pins](#2026-10-07-in-this-session-i-continued-working-on-the-starbi)
+2. [2026-10-07 – Date: October 6, 2026](#2026-10-07-date-october-6-2026)
 3. [2026-10-10 – In this session, I worked on routing the PCB and designing the boundary in a shape of a star. At the beginning, it was hard for me to rearrange the PCB layout, but I used the guided image to roughly p](#2026-10-10-in-this-session-i-worked-on-routing-the-pcb-and-d)
 
 ## Design
@@ -34,9 +34,11 @@ I started by going through the Starbie guide to get everything set up. I was abl
 
 ![file extraction](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/038ffb7d3e844e9df5fb50e88e9cabd10bda6c919514b557c4c9df688304d3d9.png)
 
-### 2026-10-07 – In this session, I continued working on the Starbie PCB guide by starting the schematic design. I had to lay out all the parts, including the buttons, sensors, mainboard, resistor, and connection pins
+### 2026-10-07 – Date: October 6, 2026
 
 **2h**
+
+Date: October 6, 2026
 
 In this session, I continued working on the Starbie PCB guide by starting the schematic design. I had to lay out all the parts, including the buttons, sensors, mainboard, resistor, and connection pins. I wired all the parts using the green wire function and used labels to create the SCL and SDA connections virtually. In the beginning, I spent some time getting more familiar with the features and ran into some problems where parts would duplicate, which sometimes caused me to delete them and restart. After making sure all the parts were connected properly, I moved on to assigning the footprints. At first, I had to do some research about the parts being used and looked at the sample bill of materials to help assign the correct footprint to each part. Once I looked at the image in the guide, I was able to confirm that I had assigned the correct footprints.
 
