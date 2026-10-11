@@ -16,7 +16,7 @@
 
 1. [2026-10-06 – Date:  October 5, 2026](#2026-10-06-date-october-5-2026)
 2. [2026-10-07 – Date: October 6, 2026](#2026-10-07-date-october-6-2026)
-3. [2026-10-10 – In this session, I worked on routing the PCB and designing the boundary in a shape of a star. At the beginning, it was hard for me to rearrange the PCB layout, but I used the guided image to roughly p](#2026-10-10-in-this-session-i-worked-on-routing-the-pcb-and-d)
+3. [2026-10-10 – Date: October 9, 2026](#2026-10-10-date-october-9-2026)
 
 ## Design
 
@@ -48,9 +48,11 @@ In this session, I continued working on the Starbie PCB guide by starting the sc
 
 ![assign footprints](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/9d1ea557232d9bd8025022c890fc952bc5302c3934c4d3c3f3515e68caacb6bc.png)
 
-### 2026-10-10 – In this session, I worked on routing the PCB and designing the boundary in a shape of a star. At the beginning, it was hard for me to rearrange the PCB layout, but I used the guided image to roughly p
+### 2026-10-10 – Date: October 9, 2026
 
 **2h**
+
+Date: October 9, 2026
 
 In this session, I worked on routing the PCB and designing the boundary in a shape of a star. At the beginning, it was hard for me to rearrange the PCB layout, but I used the guided image to roughly place the parts in the right place. When routing the PCB, I used two colors, red and blue. The red were the main lines that the guide image showed how to route and the blue were the additional connections to complete the wiring outline. The blue was mainly used for the GND or ground connections. I also had to look up videos that showed how to make the boundary in the shape of a star and I used the line function to make the stair shaped outline. Sometimes when I was outlining, the line function would stop and I would just continue making lines that didn't connect. So I looked for the pattern of how it worked and I was able to complete the shape without any disconnections.
 
