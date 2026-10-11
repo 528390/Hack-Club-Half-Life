@@ -21,7 +21,7 @@
 | [MX Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY?th=1) | Caps to attach to the switches | 2 | $0.60 | $1.20 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY?th=1) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW?th=1) | Controlling power throughout the system | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW?th=1) |
 | **Parts subtotal** | — | — | — | **$23.70** | — |
-| **Tax & shipping** | — | — | — | **$9.16** | — |
-| **Total** | — | — | — | **$32.86** | — |
+| **Tax & shipping** | — | — | — | **$7.16** | — |
+| **Total** | — | — | — | **$30.86** | — |
 
-**$2.86 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.86 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
