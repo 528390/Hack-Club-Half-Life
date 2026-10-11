@@ -88,6 +88,6 @@ In this session, I worked on adding a bitmap pet image to my code. I started by 
 
 ![gerber and drill files](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/3aa77890ce9be4eba730efabd4ee0fc2b7ac88faed4ca3d6ddfb0dab1382f93b.png)
 
-![BOM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/e0ce65c05783be2a3b02aee2c47ef8caf360343e34735ff7513fea73f3beed98.png)
+![BOM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/1532282b041d0cd2977c86bfcf82e817561122fef7acf6eeb3e08aa2ed179c00.png)
 
 ![organized github layout](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/B5xWFG6gm7WgdrhdULmY6PTXmJFExRos/fb8bdfc006228616b1fc8281fbcf80577a99ed6c9b054dd6b2badcdd0dca3840.png)
